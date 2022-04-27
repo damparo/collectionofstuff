@@ -1,0 +1,17 @@
+.container {
+
+margin-top: 100px;
+
+
+
+}
+
+.bigimg, .medimg{
+    width: 100%;
+}
+
+.sectionsbreak {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
