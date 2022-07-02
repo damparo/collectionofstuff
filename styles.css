@@ -1,10 +1,29 @@
-.container {
+
+
+#container1 {
 
 margin-top: 100px;
-
-
+margin-left: 0;
+margin-right: 0;
+max-width: 100%;
 
 }
+
+
+.removepadding{
+
+    padding: 0;
+}
+
+#container2 {
+
+    /* margin-top: 100px;
+    
+     */
+}
+
+
+
 
 .bigimg, .medimg{
     width: 100%;
